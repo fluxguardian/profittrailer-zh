@@ -8,6 +8,6 @@
 如果你在使用profittrailer过程中有更好的建议或想法请告诉我们，我们将致力推广profittrailer，让更多用户了解它，让大家轻松愉快的赚钱！！！
 后续我们将推出更多友好体现的功能，请期待！
 汉化版本：
-[点击直接下载](https://github.com/fslit/profittrailer-zh/blob/master/v1.2.6.12/ProfitTrailer-zh%20V1.2.6.12.zip "点击直接下载")
+[点击直接下载](https://github.com/fslit/profittrailer-zh/raw/master/v1.2.6.12/ProfitTrailer-zhV1.2.6.12.zip "点击直接下载")
 # 软件主界面
 ![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/pt.png)
