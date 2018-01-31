@@ -9,5 +9,7 @@
 后续我们将推出更多友好体现的功能，请期待！
 汉化版本：
 [点击直接下载v1.2.6.14](https://github.com/fslit/profittrailer-zh/raw/master/v1.2.6.14/ProfitTrailer.jar "点击直接下载v1.2.6.14")
+# **如何升级**
+替换你现有目录中的PROFITTRAILER.JAR文件
 # 软件主界面
 ![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/pt.png)
