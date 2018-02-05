@@ -8,7 +8,10 @@
 如果你在使用profittrailer过程中有更好的建议或想法请告诉我们，我们将致力推广profittrailer，让更多用户了解它，让大家轻松愉快的赚钱！！！
 后续我们将推出更多友好体现的功能，请期待！
 汉化版本：
-[点击直接下载v1.2.6.14](https://github.com/fslit/profittrailer-zh/raw/master/v1.2.6.14/ProfitTrailer.jar "点击直接下载v1.2.6.14")
+[点击直接下载v1.2.6.15](https://github.com/fslit/profittrailer-zh/raw/master/v1.2.6.15/ProfitTrailer.jar "点击直接下载v1.2.6.15")
+# 升级日志(2018-02-05)
+1.基于1.2.6.15汉化
+
 # 升级日志（2018-02-04）
 1. 汉化包翻译源由官方版本提供
 2. 前端数据刷新从原来10秒，修改了5秒刷新一次
