@@ -11,7 +11,10 @@
 **为了让您更专注使用PT赚钱，请选择我们的提供云服务，将繁杂的配置和部署交给我们吧，相关云服务请点击**[www.strattrader.com](http://www.strattrader.com "www.strattrader.com")
 
 汉化版本：
-[点击直接下载v1.2.6.15](https://github.com/fslit/profittrailer-zh/raw/master/v1.2.6.15/ProfitTrailer.jar "点击直接下载v1.2.6.15")
+[点击直接下载v1.2.6.16](https://github.com/fslit/profittrailer-zh/raw/master/v1.2.6.16/ProfitTrailer.jar "点击直接下载v1.2.6.16")
+# 升级日志(2018-02-11)
+1. 基于PT v1.2.6.16 版本汉化 
+2. 修复切换法币，刷新后没有保留
 # 升级日志(2018-02-11)
 1. 添加了插件功能按钮,部分功能需要在云主机环境下才能使用
 
