@@ -13,11 +13,14 @@
 汉化版本：
 [点击直接下载v1.2.6.15](https://github.com/fslit/profittrailer-zh/raw/master/v1.2.6.15/ProfitTrailer.jar "点击直接下载v1.2.6.15")
 # 升级日志(2018-02-11)
-添加了插件功能按钮,部分功能需要在云主机环境下才能使用
+1. 添加了插件功能按钮,部分功能需要在云主机环境下才能使用
+
 [![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211194313.png)](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211194313.png)
+
 [![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211195613.png)](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211195613.png)
-添加了多语言币种，基于PTHelper修改，感谢作者
+2. 添加了多语言币种，基于PTHelper修改，感谢作者
 [![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211194505.png)](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211194505.png)
+
 [![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211194552.png)](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/20180211194552.png)
 # 升级日志(2018-02-05)
 1.基于1.2.6.15汉化
