@@ -32,9 +32,9 @@
 1. 汉化包翻译源由官方版本提供
 2. 前端数据刷新从原来10秒，修改了5秒刷新一次
 3. 总列表中今天和昨天获利添加了百分比涨幅
-![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/Estimated-Percent-Gain.png)
+![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/Estimated-Percent-Gain.png)
 4. Pairs 和 DCA 列表 中添加了估值盈亏
-  ![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/USD-Estimate.png)
+  ![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/USD-Estimate.png)
   
  
 # **如何升级**
@@ -42,5 +42,5 @@
 ##  在币安使用profittrailer自动炒币软件如何每天获利2.5%
 https://www.youtube.com/watch?v=mljmRfdxzDM&t=658s
 # 软件主界面
-![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/pt.png)
+![](https://raw.githubusercontent.com/fslit/profittrailer-zh/master/image/pt.png)
 
